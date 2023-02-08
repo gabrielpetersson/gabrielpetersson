@@ -1,4 +1,4 @@
-### **Highlights of my timeline**
+### **Highlights**
 
 *17-18yrs old:*
 
@@ -12,7 +12,7 @@
 -   At the same time I built & owned the video-call product troubleshooter at [Mavenoid](https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/), basically zoom but w features such as live painting through webrtc
 
 *19-20yrs old:*
--   Recruited to become interim CTO of Curb Food, which was the largest cloud kitchen in Sweden at the time w/ 80 employees
+-   Recruited to become interim <ins>CTO of Curb Food</ins>, which was the largest cloud kitchen in Sweden at the time w/ 80 employees
 -   Built a team of 7 engineers from scratch 
 -   Launched a full kitchen management system into production in all kitchens
 -   Built a Doordash-style customer app
@@ -24,4 +24,4 @@
 
 I'm deeply into fundamentals of frontend engineering & building stuff that never drops a frame, while still shipping in time.
 
-More stuff https://www.linkedin.com/in/gabriel-petersson-ai/
+More stuff at https://www.linkedin.com/in/gabriel-petersson-ai/
