@@ -1,4 +1,4 @@
-### **Highlights**
+### **Timeline highlights**
 
 *17-18yrs old:*
 
