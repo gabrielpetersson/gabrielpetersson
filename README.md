@@ -23,6 +23,10 @@
 -   Took inspiration from the internal workings of chrome, basically building a browser in a browser. Chrome uses skia internally to paint content, and being written in C++, it can be compiled into webassembly. Wrote the GPU calls in rust. Scrolls & renders rows at 60fps on a x6 cpu slowdown.
 -   demo: https://www.loom.com/share/540ad426c22c4db192293babfc9c7fdf
 
-I'm deeply into fundamentals of frontend engineering & building stuff that never drops a frame, while still shipping in time.
+*22yrs-now:*
+-   midjourney
 
-More stuff at https://www.linkedin.com/in/gabriel-petersson-ai/
+
+World's most performant web table: https://fast-grid.vercel.app/
+Open canvas image generation UI: https://image-generation-ui.vercel.app/
+More stuff at: https://www.linkedin.com/in/gabriel-petersson-ai/
