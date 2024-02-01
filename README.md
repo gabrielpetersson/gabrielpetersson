@@ -27,6 +27,9 @@
 -   midjourney
 
 
+### Misc
 World's most performant web table: https://fast-grid.vercel.app/
+
 Open canvas image generation UI: https://image-generation-ui.vercel.app/
+
 More stuff at: https://www.linkedin.com/in/gabriel-petersson-ai/
