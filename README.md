@@ -1,35 +1,40 @@
-### **Timeline highlights**
+## **timeline highlights**
 
-*17-18yrs old:*
+*22yrs-now:*
+-   software engineer at midjourney, i own webpages /rank, /surveys, and /ideas. from web to db to networking
+-   building the internal tooling for tuning images, used by most researchers daily & our dataset explorer
+-   wrote the world's most performant web image grid. own loading queue, multithreaded with offscreencanvas, & smoothly renders thousands of pngs towards better resolutions as you get closer
+-   some other things
+  
+*20-22yrs old:* 
+-   founding engineer at Dataland (YC), building a developer-first Airtable focused on performance - loading hundreds of thousands of rows in seconds
+-   built one of the most performant web tables in production, could handle hundreds of thousands of rows + filters + sorting without losing frames
+-   built another web table as an experiment using skia with rust bindings. chrome uses skia internally to paint content, and being written in C++, it can be compiled into webassembly. scrolls & renders rows at 60fps on an x6 cpu slowdown.
+-   demo: https://www.loom.com/share/540ad426c22c4db192293babfc9c7fdf
 
--   Dropped out of high school to join as  a founding team member of Depict.ai (YC S20), which currently is the largest ML company in Scandinavia w ~40 employees. 
--   Was one of two who built our first product recommender system, using both image cnn & other content based techniques
+*19-20yrs old:*
+-   recruited to become interim <ins>CTO of Curb Food</ins>, the largest cloud kitchen in Sweden at the time with 80 employees
+-   built a team of 7 engineers from scratch 
+-   launched our kitchen management system into production
 
 *18-19yrs old:* 
 
--   Founded & built hittavaran.com, the largest price comparison site w/ scraping for hand sanitizers and masks in Sweden during covid, generated $24'000 in 3 weeks.
--   Reached 5% of the Swedish population in impressions on viral-engineered FB posts plugging the site, reaching 32k unique visitors in the first week
--   At the same time I built & owned the video-call product troubleshooter at [Mavenoid](https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/), basically zoom but w features such as live painting through webrtc
+-   made a price comparison site for hand sanitizer during covid, $22'000 revenue first week
+-   reached 5% of the swedish population in impressions, by buying all of my friends fb accounts and making viral-engineered FB posts
+-   built & owned the video-call product troubleshooter at [Mavenoid](https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/), basically a google meet but w features such as live painting through webrtc
 
-*19-20yrs old:*
--   Recruited to become interim <ins>CTO of Curb Food</ins>, which was the largest cloud kitchen in Sweden at the time w/ 80 employees
--   Built a team of 7 engineers from scratch 
--   Launched a full kitchen management system into production in all kitchens
--   Built a Doordash-style customer app
+*17-18yrs old:*
+-   dropped out of high school
+-   founding team from day 0 at Depict.ai (YC S20), now ~40 employees. 
+-   built first product recommender system, using image cnn & nlp
+-   did b2b sales knocking doors & closed customers 
 
-*20-22yrs old:* 
--   Founding engineer at Dataland (YC), building a developer-first Airtable focused on performance - loading hundred of thousands of rows in seconds
--   Built search/sort/filter. 5 filters and 5 sorts took 150ms at 200k rows (js is actually super fast when done right. V8s JIT etc is a masterpiece)
--   Took inspiration from the internal workings of chrome, basically building a browser in a browser. Chrome uses skia internally to paint content, and being written in C++, it can be compiled into webassembly. Wrote the GPU calls in rust. Scrolls & renders rows at 60fps on a x6 cpu slowdown.
--   demo: https://www.loom.com/share/540ad426c22c4db192293babfc9c7fdf
+*14-16yrs old:*
+-   bought and sold pokemon cards for 20k$+ with very high margins
+-   ran a minecraft server with content creators, and built an open-world rpg server that i tried to monetize
+-   made minecraft timelapses with millions of views: https://www.youtube.com/watch?v=yKozEAf0HL4
+-   leader of a clash of clans clan that was one of the first to 100 war wins
 
-*22yrs-now:*
--   midjourney
-
-
-### Misc
-World's most performant web table: https://fast-grid.vercel.app/
-
-Open canvas image generation UI: https://image-generation-ui.vercel.app/
-
-More stuff at: https://www.linkedin.com/in/gabriel-petersson-ai/
+### misc
+-   open canvas image generation UI: https://image-generation-ui.vercel.app/  
+-   more at: https://www.linkedin.com/in/gabriel-petersson-ai/
