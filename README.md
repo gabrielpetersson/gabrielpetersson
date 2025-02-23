@@ -1,10 +1,16 @@
 ## **timeline highlights**
 
-*22yrs-now:*
--   software engineer at midjourney, i own webpages /rank, /surveys, and /ideas. from web to db to networking
--   building the internal tooling for tuning images, used by most researchers daily & our dataset explorer
+*23yrs-now:*
+-   i got tired of product engineering so i joined openai
+-   ai research at sora
+-   making agi experience the world
+  
+*22-23yrs:*
+-   software engineer at midjourney
 -   wrote the world's most performant web image grid. own loading queue, multithreaded with offscreencanvas, & smoothly renders thousands of pngs towards better resolutions as you get closer
--   some other things
+-   built all internal tooling for hyperparameter tuning and dataset explorer
+-   built pair rankings, psychometrics, tasks frontend & backend & infra
+-   some other things ;)
   
 *20-22yrs old:* 
 -   founding engineer at Dataland (YC), building a developer-first Airtable focused on performance - loading hundreds of thousands of rows in seconds
