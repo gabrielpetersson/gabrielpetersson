@@ -23,13 +23,8 @@
 -   built a team of 7 engineers from scratch 
 -   launched our kitchen management system into production
 
-*18-19yrs old:* 
 
--   made a price comparison site for hand sanitizer during covid, $22'000 revenue first week
--   reached 5% of the swedish population in impressions, by buying all of my friends fb accounts and making viral-engineered FB posts
--   built & owned the video-call product troubleshooter at [Mavenoid](https://techcrunch.com/2022/08/30/mavenoid-which-automates-technical-support-and-onboarding-for-hardware-companies-raises-30m/), basically a google meet but w features such as live painting through webrtc
-
-*17-18yrs old:*
+*17-19yrs old:*
 -   dropped out of high school
 -   founding team from day 0 at Depict.ai (YC S20), now ~40 employees. 
 -   built first product recommender system, using image cnn & nlp
